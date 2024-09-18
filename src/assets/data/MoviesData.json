@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Movie 1",
+        "isMovie": true,
+        "isMyList": true,
+        "isTopinIndia": false
+    },
+    {
+        "id": 2,
+        "title": "Show 1",
+        "isMovie": false,
+        "isMyList": false,
+        "isTopinIndia": true
+    },
+    {
+        "id": 3,
+        "title": "Movie 2",
+        "isMovie": true,
+        "isMyList": false,
+        "isTopinIndia": true
+    },
+    {
+        "id": 4,
+        "title": "Movie 3",
+        "isMovie": true,
+        "isMyList": true,
+        "isTopinIndia": true
+    },
+    {
+        "id": 5,
+        "title": "Show 2",
+        "isMovie": false,
+        "isMyList": false,
+        "isTopinIndia": false
+    }
+]
